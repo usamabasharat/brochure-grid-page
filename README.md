@@ -40,7 +40,7 @@ This project is a basic prototype for a new web application stack based on Node.
 
 ## Installation Instructions
 - clone repository
-- cd Full-Stack Brochure Grid Page
+- cd brochure-grid-page
 - npm install
 - cd web-api/
 -- node app.js
