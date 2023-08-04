@@ -2,7 +2,7 @@
 This project is a basic prototype for a new web application stack based on Node.js and EJS. The project consists of three components: web-frontend, web-API, and web-CMS. The web-frontend serves a server-side rendered (SSR) HTML page displaying information about a city and a product, along with a grid of brochure cards. The web-API provides a single endpoint to serve all the data needed for the frontend page. The web-CMS hosts tables for city and product data and allows content stakeholders to manipulate data.
 
 ## Project Structure
-    full-stack-brochure-grid-page/
+    brochure-grid-page/
 
     ├── web-frontend/ 
     │   ├── views/
